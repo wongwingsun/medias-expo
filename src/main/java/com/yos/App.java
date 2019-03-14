@@ -5,9 +5,6 @@ import org.apache.commons.io.FileUtils;
 
 import java.io.*;
 
-/**
- * Hello world!
- */
 public class App {
     public static void main(String[] args) throws IOException {
         String filePath4Prod2MdmMappings = "/Volumes/Projects/data/medias-expo/prod2Mdm.csv";
